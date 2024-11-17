@@ -5,4 +5,5 @@ B) finetuning_timegpt-> https://colab.research.google.com/drive/1VO3cuSKNZhU83-L
 C) anomaly_detection-> https://colab.research.google.com/drive/1nSQHAl89p-3sqdLowXTAltOKQbao0-_e <br>
 D) Forecasting Energy Demand-> https://colab.research.google.com/drive/1XQCn566lS_9Fi-NBanCq1_seAeiMf834#scrollTo=view-in-github <br>
 E) bitcoin_price_prediction-> https://colab.research.google.com/drive/1Qk6Su_MFWejyZMWF61ITJMjd2-Ufyq_A <br>
-
+F) Insurance-> https://colab.research.google.com/drive/1ehaPwFF90W7sCz2-bOXMT09Co_qvFivy?usp=sharing#scrollTo=43f166f8 <br>
+G)
