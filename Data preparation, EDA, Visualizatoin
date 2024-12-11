@@ -1,1 +1,81 @@
+Part 1: Tabular Dataset
 
+Dataset
+
+Choose a diverse tabular dataset such as NYC Taxi Fare or Airbnb Listings. Ensure the dataset contains multiple data types (e.g., numerical, categorical, text).
+
+Steps:
+
+EDA and Visualization
+
+Conduct a detailed exploratory data analysis.
+
+Use manual and automated tools (e.g., Pandas Profiling, Sweetviz).
+
+Include summary statistics, data distributions, correlation heatmaps, and visualizations for key trends.
+
+Data Cleaning
+
+Handle missing values via imputation or removal.
+
+Detect and eliminate anomalies using clustering techniques.
+
+Normalize and encode features as required (e.g., label encoding or one-hot encoding for categorical features).
+
+Feature Processing
+
+Conduct feature selection using techniques like variance thresholding, feature importance metrics, or dimensionality reduction (e.g., PCA).
+
+Generate new features if applicable.
+
+Model Building
+
+Build various ML models, including ensemble models, using AutoVIML or similar AutoML tools.
+
+Evaluate models on appropriate metrics (e.g., accuracy, precision, recall, RMSE, or MAPE).
+
+Artifacts
+
+Save the executed Colab notebook.
+
+Save processed datasets and feature sets.
+
+Part 2: Time-Series Dataset
+
+Dataset
+
+Select a time-series dataset such as daily temperatures, stock prices, or energy consumption. Ensure the dataset reflects temporal patterns.
+
+Steps:
+
+EDA and Visualization
+
+Visualize trends, seasonality, and anomalies using line plots, seasonal decomposition, and autocorrelation plots.
+
+Analyze temporal features (e.g., day-of-week trends, monthly averages).
+
+Data Cleaning
+
+Handle missing timestamps via interpolation or removal.
+
+Smooth noisy data using rolling averages or filters.
+
+Detect and remove anomalies using clustering techniques or statistical thresholds.
+
+Feature Engineering
+
+Create lag features, rolling statistics, and time-based features (e.g., hour, day of week, month).
+
+Normalize and scale features as necessary.
+
+Model Building
+
+Build time-series forecasting models (e.g., ARIMA, Prophet, or LSTM).
+
+Use AutoML tools to evaluate multiple models and select the best-performing one.
+
+Artifacts
+
+Save the executed Colab notebook.
+
+Save processed datasets and feature sets.
