@@ -9,7 +9,7 @@ Document Clustering with LLM Embeddings
 Image Clustering Using ImageBind Embeddings
 Audio Clustering with ImageBind Embeddings
 1. K-Means Clustering from Scratch
-Notebook: https://colab.research.google.com/drive/18jutDsyHEGJLbuRO34Sw49NbGfY1OmXd
+Notebook: https://colab.research.google.com/drive/18jutDsyHEGJLbuRO34Sw49NbGfY1OmXd?usp=sharing
 This notebook implements the K-Means clustering algorithm from scratch, detailing each step:
 
 Centroid initialization
@@ -18,49 +18,49 @@ Centroid updates
 It includes visualizations and uses evaluation metrics like inertia to measure clustering performance.
 
 2. Hierarchical Clustering
-Notebook: https://colab.research.google.com/drive/1LjHaF9lUO9lBo6A6OExw60RfuvWGvVQm
+Notebook: https://colab.research.google.com/drive/1LjHaF9lUO9lBo6A6OExw60RfuvWGvVQm?usp=sharing
 This notebook demonstrates hierarchical clustering using Python libraries.
 
 Dendrograms illustrate how clusters merge.
 Interpretation of hierarchical trees is explained for better understanding of clustering outcomes.
 3. Gaussian Mixture Models (GMM) Clustering
-Notebook: https://colab.research.google.com/drive/1ChydWgSoieaYCyF7DN2BmSe9lT-_6CWl
+Notebook: https://colab.research.google.com/drive/1ChydWgSoieaYCyF7DN2BmSe9lT-_6CWl?usp=sharing
 The notebook explains Gaussian Mixture Models (GMM) for clustering.
 
 Shows probabilistic cluster assignments.
 Evaluates clusters using metrics like AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion).
 4. DBSCAN Clustering with PyCaret
-Notebook: https://colab.research.google.com/drive/1k2GzzVvWgJ3reEQMc63wZ46f-79_UQ3V
+Notebook: https://colab.research.google.com/drive/1k2GzzVvWgJ3reEQMc63wZ46f-79_UQ3V?usp=sharing
 This notebook applies the DBSCAN algorithm using PyCaret.
 
 Demonstrates DBSCAN’s density-based approach to identify clusters of varying shapes and noise.
 Evaluates clustering quality using silhouette scores.
 5. Anomaly Detection Using PyOD
-Notebook: https://colab.research.google.com/drive/1V2UjODpyhQUb44frAItmu5qWSMBlyh28
+Notebook: https://colab.research.google.com/drive/1V2UjODpyhQUb44frAItmu5qWSMBlyh28?usp=sharing
 This notebook uses the PyOD library for anomaly detection on univariate and multivariate datasets.
 
 Anomalies are detected in time series data.
 Results are visualized for interpretation.
 6. Clustering Time Series Data with Pretrained Models
-Notebook: https://colab.research.google.com/drive/1Hl_CPHJZjjI15mwbsSBjeW-lXQbqNNSG
+Notebook: https://colab.research.google.com/drive/1Hl_CPHJZjjI15mwbsSBjeW-lXQbqNNSG?usp=sharing
 This notebook focuses on clustering time series data using pretrained models.
 
 Use cases include stock market analysis.
 Methods like TS-PTMs and LLM embeddings are compared to identify temporal patterns.
 7. Document Clustering with LLM Embeddings
-Notebook: https://colab.research.google.com/drive/1jqApv3koe3pC15YjJmHD_4KAjduyS6EW
+Notebook: https://colab.research.google.com/drive/1jqApv3koe3pC15YjJmHD_4KAjduyS6EW?usp=sharing
 The notebook demonstrates clustering of documents using state-of-the-art embeddings (e.g., Sentence Transformers).
 
 Clusters are formed based on semantic similarity.
 Silhouette scores are used to evaluate clustering quality.
 8. Image Clustering Using ImageBind Embeddings
-Notebook: https://colab.research.google.com/drive/1yZzxOuOB08TqURVHu6wFZJILXZuW8ivf
+Notebook: https://colab.research.google.com/drive/1yZzxOuOB08TqURVHu6wFZJILXZuW8ivf?usp=sharing
 This notebook performs clustering of images using embeddings from Meta’s ImageBind model.
 
 Explores cross-modality embeddings for clustering images alongside other data types.
 Visualization techniques like t-SNE are included for better interpretation.
 9. Audio Clustering with ImageBind Embeddings
-Notebook: https://colab.research.google.com/drive/1VtEkJDmFEfB-OMnx91x_nAH4Bj2eEuVG
+Notebook: https://colab.research.google.com/drive/1VtEkJDmFEfB-OMnx91x_nAH4Bj2eEuVG?usp=sharing
 This notebook clusters audio files using embeddings from the ImageBind model.
 
 Applies K-Means clustering to audio embeddings.
